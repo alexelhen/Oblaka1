@@ -53,22 +53,7 @@
 
 ## Результаты
 
-### 1) Распределение по сервисам (Product Code)
-- AmazonSNS: **13** правил
-- AmazonVPC: **12** правил
-- AmazonS3: **7** правил
-- AmazonSES: **7** правил
-- AmazonRedshift: **6** правил
-- AmazonQLDB: **2** правил
-
-### 2) Распределение по IT Tower
-- Cloud Services: **20** правил
-- Network: **12** правил
-- Storage: **7** правил
-- Analytics: **6** правил
-- Database: **2** правил
-
-### 3) Примеры заполнения (по 1 строке на сервис)
+###  Примеры заполнения 
 
 | IT Tower | Service Family | Service Type | Service Sub Type | Service Usage Type | Product Code | Usage Type |
 |---|---|---|---|---|---|---|
