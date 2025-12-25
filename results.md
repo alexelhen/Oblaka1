@@ -41,16 +41,8 @@
 
 ## Результаты
 
-###  Примеры заполнения 
+<img width="1212" height="521" alt="image" src="https://github.com/user-attachments/assets/54d5e5ed-0111-4a7b-ab18-0b4f458cbab6" />
 
-| IT Tower | Service Family | Service Type | Service Sub Type | Service Usage Type | Product Code | Usage Type |
-|---|---|---|---|---|---|---|
-| Storage | Object Storage | Amazon S3 | Data Transfer | Data transfer (GB) | AmazonS3 | %DataTransfer% |
-| Database | Ledger Database | Amazon QLDB | Storage | Storage (GB-months) | AmazonQLDB | %Storage |
-| Analytics | Data Warehouse | Amazon Redshift | General | Usage-based | AmazonRedshift | nan |
-| Network | Networking | Amazon VPC | General | Usage-based | AmazonVPC | nan |
-| Cloud Services | Email | Amazon SES | General | Usage-based | AmazonSES | nan |
-| Cloud Services | Messaging | Amazon SNS | General | Usage-based | AmazonSNS | nan |
 
 ## Заключение
 Лабораторная работа №1 выполнена: данные AWS классифицированы по единой сервисной модели (IT Tower - Service Family - Service Type - Sub Type - Usage Type).  
