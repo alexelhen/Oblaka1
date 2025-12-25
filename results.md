@@ -45,5 +45,8 @@
 
 
 ## Заключение
-Лабораторная работа №1 выполнена: данные AWS классифицированы по единой сервисной модели (IT Tower - Service Family - Service Type - Sub Type - Usage Type).  
+Лабораторная работа №1 выполнена: данные AWS классифицированы по единой сервисной модели (IT Tower - Service Family - Service Type - Sub Type - Usage Type).
+
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/7675354a-3caf-4aec-939f-fe5225999bc9" />
+
 
