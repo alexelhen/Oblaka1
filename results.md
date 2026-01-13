@@ -41,7 +41,7 @@
 
 ## Результаты
 
-<img width="1212" height="521" alt="image" src="https://github.com/user-attachments/assets/54d5e5ed-0111-4a7b-ab18-0b4f458cbab6" />
+<img width="1235" height="562" alt="image" src="https://github.com/user-attachments/assets/6cc4ebad-8d0a-4e12-878f-88f8454e159e" />
 
 
 ## Заключение
